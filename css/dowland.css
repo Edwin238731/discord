@@ -78,11 +78,9 @@ header{
     color: white;
 }
 main{
-    border: 2px yellow solid;
     max-width: 550px;
 }
 .slide figure {
-    border: 2px blue solid;
     max-width: 550px;
 }
 .slide figure img{
